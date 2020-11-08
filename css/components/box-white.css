@@ -7,4 +7,5 @@
   width: 200px;
   font-size: 10px;
   text-align: center;
+  flex-grow: 1;
 }

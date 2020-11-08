@@ -1,0 +1,21 @@
+#team {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#team .box-white {
+  flex-grow: 1;
+  flex-basis: 200px;
+  margin: 10px;
+}
+
+#team i {
+  font-size: 30px;
+  color: rgb(200, 200, 200);
+}
+
+#team i:hover {
+  color: rgb(0, 0, 0);
+}

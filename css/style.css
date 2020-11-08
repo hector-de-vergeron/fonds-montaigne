@@ -4,6 +4,7 @@
 @import url(components/btn-grey.css);
 @import url(components/list-inline.css);
 @import url(components/box-white.css);
+@import url(components/team.css);
 
 body {
   font-family: 'Merriweather', serif;
