@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;900&display=swap");
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/btn-grey.css);
+@import url(components/list-inline.css);
+@import url(components/box-white.css);
+
+body {
+  font-family: 'Merriweather', serif;
+  font-size: 16;
+  font-weight: 300;
+  margin: 0;
+  background-color: rgb(230, 230, 230);
+}
+
+h1 {
+  margin: 30;
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+}

@@ -1,0 +1,10 @@
+.box-white {
+  background-color: #f6f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin: 10px 0px;
+  width: 200px;
+  font-size: 10px;
+  text-align: center;
+}
